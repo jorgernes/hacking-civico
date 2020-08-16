@@ -2,7 +2,7 @@
 
 # Museos de Mexico
 
-![](github.com/jorgernes/hacking-civico/Recursos/imagenes/MuseosCDMX.jpg)
+![](https://www.gob.mx/cms/uploads/document/main_image/59111/museos-mexico.jpg)
 
 [Museos CDMX](https://www.gob.mx/cultura/documentos/museosmexico "siete museos")
   
