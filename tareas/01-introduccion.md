@@ -30,9 +30,9 @@ _115 mil registros digitales de las colecciones de museos del *INBA, INAH y Dire
 
 **Se realizo en la Secretaria de Cultura**
 
->Fecha de publicacion:*16 de mayo de 2018*
+>Fecha de publicacion: ***16 de mayo de 2018***
 
  > Que proyecto con datos se te ocurre que podra implementarse en tu ciudad?
  
-#### Un museo por municipio de datos graficos, multimedia, y estadisticas ; `que muestren la identidad cultural` de sus habitantes :zap:
+#### Un museo por Alcaldia, que muestre datos graficos, multimedia, y estadisticas ; `que muestren la identidad cultural` de sus habitantes :zap:
 
