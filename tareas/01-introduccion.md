@@ -11,7 +11,7 @@
 - [x] Conectar la coleccion y el conocimiento que generan cientos de investigadores en torno a esta con el publico
 Reestructurar la informacion con una nueva arquitectura de datos
 
-- [x]Crear paginas web multiplataforma con una interfaz grafica bajo las necesidades de cada museo.
+- Crear paginas web multiplataforma con una interfaz grafica bajo las necesidades de cada museo.
 Acceso abierto y universal a las colecciones y sus metadatos
 Permitir a los usuarios crear sus propias exposiciones
 
@@ -30,8 +30,7 @@ _115 mil registros digitales de las colecciones de museos del *INBA, INAH y Dire
 
 **Se realizo en la Secretaria de Cultura**
 
->Fecha de publicacion
->*16 de mayo de 2018*
+>Fecha de publicacion:*16 de mayo de 2018*
 
  > Que proyecto con datos se te ocurre que podra implementarse en tu ciudad?
  
