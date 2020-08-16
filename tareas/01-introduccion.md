@@ -2,7 +2,7 @@
 
 # Museos de Mexico
 
-![](/Recursos/MuseosCDMX.jpg)
+![](/Recursos/imagenes/MuseosCDMX.jpg)
 
 [Museos CDMX](https://www.gob.mx/cultura/documentos/museosmexico *siete museos*)
   
@@ -31,5 +31,5 @@ _115 mil registros digitales de las colecciones de museos del *INBA, INAH y Dire
 
  > Que proyecto con datos se te ocurre que podra implementarse en tu ciudad?
  
-## Un museo por municipio de datos graficos, multimedia, y estadisticas ; `que muestren la identidad cultural` de sus habitantes :zap:
+### Un museo por municipio de datos graficos, multimedia, y estadisticas ; `que muestren la identidad cultural` de sus habitantes :zap:
 
