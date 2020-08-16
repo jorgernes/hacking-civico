@@ -18,7 +18,7 @@ Permitir a los usuarios crear sus propias exposiciones
 
 ### fuente de consulta:
 
-**Datos.gob.mx**
+[Datos.gob.mx](https://datos.gob.mx/ "consulta de datos abiertos")
 
 _115 mil registros digitales de las colecciones de museos del *INBA, INAH y Direccion General de Culturas Populares, Indgenas y Urbanas*_  :star2:
 
