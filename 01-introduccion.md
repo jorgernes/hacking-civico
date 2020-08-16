@@ -31,5 +31,5 @@ _115 mil registros digitales de las colecciones de museos del *INBA, INAH y Dire
 
  > Que proyecto con datos se te ocurre que podria implementarse en tu ciudad?
  
-_*Un museo por municipio de datos graficos, multimedia, y estadisticas ; `que muestren la identidad cultural` de sus habitantes*_  :+1:
+_**Un museo por municipio de datos graficos, multimedia, y estadisticas ; `que muestren la identidad cultural` de sus habitantes**_   :+1:
 
