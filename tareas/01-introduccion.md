@@ -2,9 +2,9 @@
 
 # Museos de Mexico
 
-![](/Recursos/imagenes/MuseosCDMX.jpg)
+![](github.com/jorgernes/hacking-civico/Recursos/imagenes/MuseosCDMX.jpg)
 
-[Museos CDMX](https://www.gob.mx/cultura/documentos/museosmexico *siete museos*)
+[Museos CDMX](https://www.gob.mx/cultura/documentos/museosmexico "siete museos")
   
 - [ ] Entre los objetivos especificos se encuentran:
 
@@ -31,5 +31,5 @@ _115 mil registros digitales de las colecciones de museos del *INBA, INAH y Dire
 
  > Que proyecto con datos se te ocurre que podra implementarse en tu ciudad?
  
-### Un museo por municipio de datos graficos, multimedia, y estadisticas ; `que muestren la identidad cultural` de sus habitantes :zap:
+#### Un museo por municipio de datos graficos, multimedia, y estadisticas ; `que muestren la identidad cultural` de sus habitantes :zap:
 
