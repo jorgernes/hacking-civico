@@ -15,6 +15,10 @@ Reestructurar la informacion con una nueva arquitectura de datos
 Acceso abierto y universal a las colecciones y sus metadatos
 Permitir a los usuarios crear sus propias exposiciones
 
+- El desarrollo tecnológico que sustenta el proyecto es código 100% libre y abierto, por lo que podrá ser reutilizado
+por otros museos o recintos del sector, lo que a la larga puede permitir la optimización de recursos y la 
+homologación de plataformas, con miras a la interoperabilidad y sustentabilidad.
+
 
 ### fuente de consulta:
 
@@ -27,7 +31,7 @@ _115 mil registros digitales de las colecciones de museos del *INBA, INAH y Dire
 **Se realizo en la Secretaria de Cultura**
 
 >Fecha de publicacion
-*16 de mayo de 2018*
+>*16 de mayo de 2018*
 
  > Que proyecto con datos se te ocurre que podra implementarse en tu ciudad?
  
