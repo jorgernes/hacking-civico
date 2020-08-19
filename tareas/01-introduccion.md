@@ -2,7 +2,6 @@
 
 # Museos de Mexico
 
-[coomment]<https://www.gob.mx/cms/uploads/document/main_image/59111/museos-mexico.jpg> (la imagen estaba muy grande)
  <img src="https://www.gob.mx/cms/uploads/document/main_image/59111/museos-mexico.jpg" alt="drawing" width="500"/>
 
 [Museos CDMX](https://www.gob.mx/cultura/documentos/museosmexico "siete museos")
