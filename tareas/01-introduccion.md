@@ -2,8 +2,8 @@
 
 # Museos de Mexico
 
-![](https://www.gob.mx/cms/uploads/document/main_image/59111/museos-mexico.jpg)
- <img src="https://www.gob.mx/cms/uploads/document/main_image/59111/museos-mexico.jpg" alt="drawing" width="200"/>
+//![](https://www.gob.mx/cms/uploads/document/main_image/59111/museos-mexico.jpg)//
+ <img src="https://www.gob.mx/cms/uploads/document/main_image/59111/museos-mexico.jpg" alt="drawing" width="500"/>
 
 [Museos CDMX](https://www.gob.mx/cultura/documentos/museosmexico "siete museos")
   
