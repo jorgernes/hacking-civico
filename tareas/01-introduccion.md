@@ -3,17 +3,21 @@
 # Museos de Mexico
 
 ![](https://www.gob.mx/cms/uploads/document/main_image/59111/museos-mexico.jpg)
+ <img src="https://www.gob.mx/cms/uploads/document/main_image/59111/museos-mexico.jpg" alt="drawing" width="200"/>
 
 [Museos CDMX](https://www.gob.mx/cultura/documentos/museosmexico "siete museos")
   
 - [ ] Entre los objetivos especificos se encuentran:
 
 - [x] Conectar la coleccion y el conocimiento que generan cientos de investigadores en torno a esta con el publico
-Reestructurar la informacion con una nueva arquitectura de datos
+
+- Reestructurar la informacion con una nueva arquitectura de datos
 
 - Crear paginas web multiplataforma con una interfaz grafica bajo las necesidades de cada museo.
-Acceso abierto y universal a las colecciones y sus metadatos
-Permitir a los usuarios crear sus propias exposiciones
+
+- Acceso abierto y universal a las colecciones y sus metadatos
+
+- Permitir a los usuarios crear sus propias exposiciones
 
 - El desarrollo tecnológico que sustenta el proyecto es código 100% libre y abierto, por lo que podrá ser reutilizado
 por otros museos o recintos del sector, lo que a la larga puede permitir la optimización de recursos y la 
